@@ -12,7 +12,7 @@ This smart contract solves the problem of centralized voting systems that can be
 <br><br>
 
 <h2>Challenges I ran into</h2><br>
-1. Ensuring transparency and verifiability: One of the biggest challenges in developing a decentralized voting machine is ensuring that the voting process is transparent and the results are verifiable by all parties. 
+ 1. Ensuring transparency and verifiability: One of the biggest challenges in developing a decentralized voting machine is ensuring that the voting process is transparent and the results are verifiable by all parties. 
 
 2. Preventing double voting and fraud: Preventing double voting and fraud is critical to the success of a decentralized voting machine. The smart contract must be designed in a way that prevents malicious actors from submitting multiple votes or manipulating the results. 
 
