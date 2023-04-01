@@ -26,9 +26,8 @@ This smart contract solves the problem of centralized voting systems that can be
 Shardeum <br>
 Solidity <br>
 Remix (IDE) <br>
-Tezos <br>
+Tezos <br><br><br>
 
 
 
 <h3>END OF FILE</h3>
-<br>
