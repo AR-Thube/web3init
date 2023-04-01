@@ -4,4 +4,6 @@ This repository consists of the dapp (smart contract) that has been deployed on 
 
 Project Name - Decentralized Voting Machine
 
-Details of the projects are mentioned here.
+Tag Line: Your Vote, Your Voice, Your Blockchain.
+
+<h4>The Problem it solves</h4>
